@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #F5F5F5;
+    
+}
+li{
+    text-decoration: none;
+    display: inline; 
+    padding: 11px 40px;
+    background-color: #232323;
+}
+#conteudo{
+    width: 90%;
+    margin: auto;
+    background-color: #232323;
+}
+#container_logo{
+    background-color: F5F5F5;
+}
+#logo{
+    width: 60%; 
+}
+#menu{
+    background-color: #F9A03F;
+}
+.texto1{
+    color: #F5F5F5;
+    font-size: 20px;
+    word-spacing: 15px;
+    font-weight: bold;
+    padding: 10px;
+    width: 55%;
+    margin: auto;
+}
